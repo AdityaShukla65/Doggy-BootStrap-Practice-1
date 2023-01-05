@@ -1,0 +1,116 @@
+body {
+    color: #ffffff;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.pink {
+    background-color: #ff4c68;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.grey {
+    color: #8f8f8f;
+}
+
+.black {
+    color: #000000;
+}
+
+.light-pink {
+    color: #ef8172;
+}
+
+.light-pink-bg {
+    background-color: #ef8172;
+}
+
+button:hover .pink-hover {
+    color: #ff4c68;
+}
+
+.white-text {
+    color: #ffffff;
+}
+
+.hover-opacity:hover {
+    opacity: 0.75;
+    color: #ffffff;
+}
+
+.hover-color-white:hover {
+    color: #ffffff;
+}
+
+.rotater {
+    transform: rotate(25deg);
+}
+
+.header {
+    padding: 12rem 15rem 0rem;
+    height: 45rem;
+}
+
+.brand-logo {
+    font-family: 'Fredoka One', cursive;
+    font-size: 2.1rem;
+}
+
+.main-heading {
+    font-size: 3.5rem;
+    line-height: 5rem;
+    font-weight: bold;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.marginer-nav {
+    margin-left: 35rem;
+    font-size: 1.1rem;
+}
+
+.div-padder-header {
+    padding: 10.52rem 12rem;
+}
+
+.sponsor {
+    height: 3rem;
+}
+
+.carousel-dog-client {
+    height: 7.5rem;
+    width: 7.5rem;
+    cursor: pointer;
+}
+.carousel-dog-client:hover{
+    opacity:0.92;
+}
+
+.fair {
+    font-family: 'Playfair Display', serif;
+}
+
+.width-mod {
+    width: 30%;
+}
+
+.btn-width {
+    width: 15rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+    cursor: pointer;
+}
+.social{
+    color:#000000;
+}
+.social:hover{
+    opacity:0.8;
+}
